@@ -1,3 +1,0 @@
-Supabase bağlantısı	Render → Environment Variables-a VITE_SUPABASE_URL və VITE_SUPABASE_ANON_KEY əlavə edin
-React Router	Render-də /* → /index.html redirect qaydası əlavə edin (Redirects/Rewrites bölməsi)
-Pulsuz plan limiti	Ayda 100 GB bandwidth, statik sayt üçün kifayətdir
